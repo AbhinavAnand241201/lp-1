@@ -7,7 +7,7 @@ import Image from 'next/image'
 export default function Home() {
   const handleDownload = () => {
     // Open Google Drive link in new tab
-    window.open('https://drive.google.com/drive/my-drive', '_blank')
+    window.open('https://drive.google.com/file/d/1PSqEo3lUdK-WPI5DrJQd2Wk0Kfh8LdkA/view?usp=sharing', '_blank')
   }
 
   return (
